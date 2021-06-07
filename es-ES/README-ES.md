@@ -1,14 +1,10 @@
 
 # Lista de preguntas (avanzadas) de JavaScript 
-
- Publico diariamente preguntas de opción múltiple en JavaScript en mi [Instagram](https://www.instagram.com/theavocoder), ¡que también publicaré aquí! 
  
  Desde lo básico a lo avanzado: comprueba si realmente conoces _Javascript_, actualiza tus conocimientos o simplemente prepárate para tu próxima entrevista 💪 🚀 Actualizaré este repo semanalmente con nuevas preguntas.
  
  Las respuestas se encuentran en las secciones contraídas debajo de las preguntas, simplemente haz clic en ellas para expandirlas. Buena suerte ❤️
 
-¿Quieres recibir un email cada vez que agregue más preguntas? <br />
-<a target="_blank" href="https://www.theavocoder.com/subscribe"><b>✨✉Suscríbete a las actualizaciones por email✉✨</b></a>
 
 
 Lista de lenguajes disponibles:

@@ -4,12 +4,8 @@
 
 ---
 
-<span>Ich veröffentliche jeden Tag mehrere Multiple-Choice-Fragen über JavaScript auf meinem [Instagram-Account](https://www.instagram.com/theavocoder), die ich nun auch hier veröffentliche.
-
 Von einfach bis fortgeschritten: teste, wie gut du JavaScript kennst, frische dein Wissen auf oder bereite dich auf ein Vorstellungsgespräch vor! :muscle: :rocket: Ich werde dieses Repo regelmäßig mit neuen Fragen erweitern. Die Antworten sind unterhalb der Fragen **versteckt**. Du kannst einfach darauf klicken, um die Antworten anzuzeigen. Viel Glück :heart:</span>
 
-Kontaktiert mich, wenn ihr möchtet! 😊 <br />
-<a href="https://www.instagram.com/theavocoder">Instagram</a> || <a href="https://www.twitter.com/lydiahallie">Twitter</a> || <a href="https://www.linkedin.com/in/lydia-hallie">LinkedIn</a> || <a href="https://www.lydiahallie.dev">Blog</a>
 </div>
 
 | Benutzt die Fragen und Lösungen in einem Projekt! 😃  Ich würde mich _sehr_ freuen, wenn ihr dieses Repo verlinkt. Ich erstelle die Fragen und antworten (ja, ich bin traurig, lol) und die Community hilft mir unglaublich dabei, das ganze zu pflegen und verbessern! 💪🏼 Danke und habt Spaß!   |

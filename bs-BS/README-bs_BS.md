@@ -1,10 +1,6 @@
 # Popis (naprednih) JavaScript pitanja
 =======================================
 
-Svakodnevno postavljam JavaScript pitanja s višestrukim izborom na moj
-[Instagram](https://www.instagram.com/theavocoder), koja  također objavljujem
-ovdje!
-
 Od osnovnog do naprednog: testirajte koliko dobro znate JavaScript, osvježite svoj
 znanje malo, ili pripremiti za svoj intervju! :muscle: :rocket:
 Ovaj tjedni repo ažuriram s novim pitanjima.

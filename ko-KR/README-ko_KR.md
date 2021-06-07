@@ -1,13 +1,8 @@
 # (고급) JavaScript 질문 목록
 
-JavaScript 에 관한 객관식 문제를 [Instagram](https://www.instagram.com/theavocoder)에 매일 게시하고 있어요, 물론 여기에도 게시할 거예요!
-
 초급부터 고급까지: JavaScript를 얼마나 잘 알고 있는지 테스트하거나, 지식을 조금 더 새롭게 하거나, 코딩 면접을 준비하세요! :muscle: :rocket: 이 기록을 매주 새로운 질문으로 업데이트해요. 마지막 업데이트: <a href=#20191009><b>10월 09일</b></a>
 
 정답은 질문 아래 접힌 부분에 있고, 간단히 클릭하면 펼칠 수 있어요. 행운을 빌어요 :heart:
-
-질문이 더 추가될 때마다 이메일을 받고 싶나요? <br />
-<a target="_blank" href="https://www.theavocoder.com/subscribe"><b>✨✉이메일 업데이트 구독 ✉✨</b></a>
 
 사용 가능한 언어 목록:
 - [🇸🇦 العربية](./ar-AR/README_AR.md)

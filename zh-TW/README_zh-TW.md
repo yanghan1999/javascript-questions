@@ -3,17 +3,12 @@
   <h1>JavaScript 進階題目列表</h1>
 ---
 
-<span>我會在我的 [Instagram](https://www.instagram.com/theavocoder) 上發布關於 JavaScript 的複選題，同時也會更新到這個 Repo 當中。更新日期： <a href=#20200612><b>2020 年 06 月 12 日</b></a>
-
 從基礎到進階程度，測試你有多了解 JavaScript，不僅更新你的知識，更能幫助你的 coding 面試！
 :muscle: :rocket: 我每週都會在這個 Repo 中更新新的題目。
 
 答案在題目下方的摺疊區塊，點擊即可展開答案。祝你好運 :heart:</span>
 
-歡迎和我聯繫！😊 <br />
-<a href="https://www.instagram.com/theavocoder">Instagram</a> || <a href="https://www.twitter.com/lydiahallie">Twitter</a> || <a href="https:/www.linkedin.com/in/lydia-hallie">LinkedIn</a> || <a href="www.lydiahallie.dev">Blog</a>
-
-  </div>
+</div>
 
 ---
 

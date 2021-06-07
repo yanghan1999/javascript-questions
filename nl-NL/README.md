@@ -4,12 +4,8 @@
 
   ---
 
-  <span>Ik plaats JavaScript meerkeuzevragen op mijn [Instagram](https://www.instagram.com/theavocoder) **stories**, welke ik ook hier zal plaatsen! Laatste update: <a href=#20191224><b>24 december</b></a>
-
   Van beginner naar expert: test hoe goed je JavaScript kent, fris je kennis een beetje op, of bereid je voor op een sollicitatiegesprek! :muscle: :rocket: Ik zal deze repository regelmatig updaten met nieuwe vragen. Ik heb de antwoorden toegevoegd in de **ingeklapte secties** onder een vraag, zodat je er makkelijk op kan klikken om ze uit te klappen. Het is gewoon voor je plezier, veel succes! :heart:</span>
 
-  Voel je vrij om contact met mij op te nemen! 😊 <br />
-  <a href="https://www.instagram.com/theavocoder">Instagram</a> || <a href="https://www.twitter.com/lydiahallie">Twitter</a> || <a href="https:/www.linkedin.com/in/lydia-hallie">LinkedIn</a> || <a href="www.lydiahallie.dev">Blog</a>
   </div>
 
 ---
